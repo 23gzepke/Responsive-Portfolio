@@ -7,8 +7,8 @@ https://23gzepke.github.io/Responsive-Portfolio/
 
 
 ## Technologies Used
-HTML
-CSS
-Bootstrap
-JQuery
+* HTML
+* CSS
+* Bootstrap
+* JQuery
 
