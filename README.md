@@ -12,5 +12,5 @@ https://23gzepke.github.io/Responsive-Portfolio/
 * Bootstrap
 * JQuery
 
-## ![Screenshot].(./images/Screenshot2.png)
-## ![Screenshot].(./images/Screenshot3.png)
+## ![Screenshot](./images/Screenshot2.png)
+## ![Screenshot](./images/Screenshot3.png)
