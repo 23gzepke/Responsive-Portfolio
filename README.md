@@ -6,3 +6,9 @@ Created a responsive portfilio consisting of a navbar, responsive images and lay
 https://23gzepke.github.io/Responsive-Portfolio/
 
 
+## Technologies Used
+HTML
+CSS
+Bootstrap
+JQuery
+
